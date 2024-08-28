@@ -1,0 +1,8 @@
+:root{
+    --cor-da-fonte: (3, 0, 0);
+    --cor-do-fundo: #fd0909;
+}
+body{
+color: var(--cor-da-fonte);
+background-color: var(--cor-do-fundo) 
+}
